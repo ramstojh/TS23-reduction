@@ -1,0 +1,1653 @@
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 1 1070. 183.513
+	image	20201004_0023
+	aperture	1
+	beam	1
+	center	1070. 183.513
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -12.76251
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		4.562966
+		-54.23976
+		9.083144
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 2 1070. 211.0934
+	image	20201004_0023
+	aperture	2
+	beam	2
+	center	1070. 211.0934
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -12.60773
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		2.250808
+		-54.28817
+		9.106022
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 3 1070. 230.6856
+	image	20201004_0023
+	aperture	3
+	beam	3
+	center	1070. 230.6856
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.376941
+		-54.41056
+		9.12671
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 4 1070. 252.6237
+	image	20201004_0023
+	aperture	4
+	beam	4
+	center	1070. 252.6237
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 11.54578
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.649236
+		-54.543
+		9.159881
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 5 1070. 279.7761
+	image	20201004_0023
+	aperture	5
+	beam	5
+	center	1070. 279.7761
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.32184
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		6.30648
+		-54.68875
+		9.175713
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 6 1070. 300.869
+	image	20201004_0023
+	aperture	6
+	beam	6
+	center	1070. 300.869
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.706352
+		-54.85309
+		9.205117
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 7 1070. 322.7712
+	image	20201004_0023
+	aperture	7
+	beam	7
+	center	1070. 322.7712
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 11.24377
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		10.05481
+		-55.03619
+		9.230406
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 8 1070. 348.873
+	image	20201004_0023
+	aperture	8
+	beam	8
+	center	1070. 348.873
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.022704
+		-55.23999
+		9.24314
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 9 1070. 370.3793
+	image	20201004_0023
+	aperture	9
+	beam	9
+	center	1070. 370.3793
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.470857
+		-55.44971
+		9.273325
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 10 1070. 392.5395
+	image	20201004_0023
+	aperture	10
+	beam	10
+	center	1070. 392.5395
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.35666
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.186841
+		-55.68531
+		9.293519
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 11 1070. 417.7214
+	image	20201004_0023
+	aperture	11
+	beam	11
+	center	1070. 417.7214
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.32452
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		6.848481
+		-55.91936
+		9.318334
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 12 1070. 439.8764
+	image	20201004_0023
+	aperture	12
+	beam	12
+	center	1070. 439.8764
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.15186
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.551787
+		-56.18537
+		9.33735
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 13 1070. 463.0265
+	image	20201004_0023
+	aperture	13
+	beam	13
+	center	1070. 463.0265
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.28864
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.298676
+		-56.45377
+		9.362416
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 14 1070. 485.6732
+	image	20201004_0023
+	aperture	14
+	beam	14
+	center	1070. 485.6732
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.62454
+		-56.73919
+		9.387193
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 15 1070. 509.1016
+	image	20201004_0023
+	aperture	15
+	beam	15
+	center	1070. 509.1016
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.276794
+		-57.03488
+		9.408696
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 16 1070. 532.1054
+	image	20201004_0023
+	aperture	16
+	beam	16
+	center	1070. 532.1054
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.33362
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.488125
+		-57.34596
+		9.428811
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 17 1070. 555.4323
+	image	20201004_0023
+	aperture	17
+	beam	17
+	center	1070. 555.4323
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.33557
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.529232
+		-57.66874
+		9.458187
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 18 1070. 578.9448
+	image	20201004_0023
+	aperture	18
+	beam	18
+	center	1070. 578.9448
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.27795
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.568188
+		-58.0037
+		9.480215
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 19 1070. 602.6861
+	image	20201004_0023
+	aperture	19
+	beam	19
+	center	1070. 602.6861
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.18781
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.576535
+		-58.35114
+		9.505154
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 20 1070. 626.7365
+	image	20201004_0023
+	aperture	20
+	beam	20
+	center	1070. 626.7365
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.33856
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.497947
+		-58.70796
+		9.52876
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 21 1070. 650.8829
+	image	20201004_0023
+	aperture	21
+	beam	21
+	center	1070. 650.8829
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.558982
+		-59.08008
+		9.553405
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 22 1070. 675.1289
+	image	20201004_0023
+	aperture	22
+	beam	22
+	center	1070. 675.1289
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.26141
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.77225
+		-59.4576
+		9.579204
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 23 1070. 699.9442
+	image	20201004_0023
+	aperture	23
+	beam	23
+	center	1070. 699.9442
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.2937
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.687222
+		-59.8528
+		9.603944
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 24 1070. 725.083
+	image	20201004_0023
+	aperture	24
+	beam	24
+	center	1070. 725.083
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.49561
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.56146
+		-60.25418
+		9.628879
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 25 1070. 750.1492
+	image	20201004_0023
+	aperture	25
+	beam	25
+	center	1070. 750.1492
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.80193
+		-60.67171
+		9.659385
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 26 1070. 775.7009
+	image	20201004_0023
+	aperture	26
+	beam	26
+	center	1070. 775.7009
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.868313
+		-61.10832
+		9.681129
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 27 1070. 801.5226
+	image	20201004_0023
+	aperture	27
+	beam	27
+	center	1070. 801.5226
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.982136
+		-61.54081
+		9.710329
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 28 1070. 827.9744
+	image	20201004_0023
+	aperture	28
+	beam	28
+	center	1070. 827.9744
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.798243
+		-62.00084
+		9.743563
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 29 1070. 854.416
+	image	20201004_0023
+	aperture	29
+	beam	29
+	center	1070. 854.416
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.30103
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.964996
+		-62.46237
+		9.769552
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 30 1070. 881.4562
+	image	20201004_0023
+	aperture	30
+	beam	30
+	center	1070. 881.4562
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.49493
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		7.886581
+		-62.9368
+		9.804765
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 31 1070. 908.6079
+	image	20201004_0023
+	aperture	31
+	beam	31
+	center	1070. 908.6079
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.12842
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.055312
+		-63.43051
+		9.833873
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 32 1070. 936.3343
+	image	20201004_0023
+	aperture	32
+	beam	32
+	center	1070. 936.3343
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.025471
+		-63.9301
+		9.869164
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 33 1070. 964.4271
+	image	20201004_0023
+	aperture	33
+	beam	33
+	center	1070. 964.4271
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.000151
+		-64.444
+		9.900764
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 34 1070. 992.6195
+	image	20201004_0023
+	aperture	34
+	beam	34
+	center	1070. 992.6195
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.18237
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.272064
+		-64.96729
+		9.936104
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 35 1070. 1021.51
+	image	20201004_0023
+	aperture	35
+	beam	35
+	center	1070. 1021.51
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.33337
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.238993
+		-65.50379
+		9.977239
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 36 1070. 1050.624
+	image	20201004_0023
+	aperture	36
+	beam	36
+	center	1070. 1050.624
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -12.8551
+		xmax 16.76746
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.400337
+		-66.10957
+		10.00833
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 37 1070. 1083.429
+	image	20201004_0023
+	aperture	37
+	beam	37
+	center	1070. 1083.429
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		5.173067
+		-66.70999
+		10.20567
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 38 1070. 1110.559
+	image	20201004_0023
+	aperture	38
+	beam	38
+	center	1070. 1110.559
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.12146
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.237568
+		-67.18502
+		10.09178
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 39 1070. 1141.079
+	image	20201004_0023
+	aperture	39
+	beam	39
+	center	1070. 1141.079
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.247652
+		-67.77122
+		10.12234
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 40 1070. 1171.784
+	image	20201004_0023
+	aperture	40
+	beam	40
+	center	1070. 1171.784
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.13745
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.508851
+		-68.37218
+		10.15439
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 41 1070. 1203.197
+	image	20201004_0023
+	aperture	41
+	beam	41
+	center	1070. 1203.197
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.504798
+		-68.98591
+		10.19585
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 42 1070. 1235.026
+	image	20201004_0023
+	aperture	42
+	beam	42
+	center	1070. 1235.026
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.536282
+		-69.60719
+		10.23024
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 43 1070. 1267.71
+	image	20201004_0023
+	aperture	43
+	beam	43
+	center	1070. 1267.71
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.59668
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.174932
+		-70.24249
+		10.26233
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 44 1070. 1299.739
+	image	20201004_0023
+	aperture	44
+	beam	44
+	center	1070. 1299.739
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.933674
+		-70.89111
+		10.29548
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 45 1070. 1333.161
+	image	20201004_0023
+	aperture	45
+	beam	45
+	center	1070. 1333.161
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.770955
+		-71.56528
+		10.32911
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 46 1070. 1366.71
+	image	20201004_0023
+	aperture	46
+	beam	46
+	center	1070. 1366.71
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.961576
+		-72.23415
+		10.37486
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 47 1070. 1401.201
+	image	20201004_0023
+	aperture	47
+	beam	47
+	center	1070. 1401.201
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.698943
+		-72.93286
+		10.40756
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 48 1070. 1435.573
+	image	20201004_0023
+	aperture	48
+	beam	48
+	center	1070. 1435.573
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.046586
+		-73.64202
+		10.44326
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 49 1070. 1470.624
+	image	20201004_0023
+	aperture	49
+	beam	49
+	center	1070. 1470.624
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.216248
+		-74.35812
+		10.49721
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 50 1070. 1506.244
+	image	20201004_0023
+	aperture	50
+	beam	50
+	center	1070. 1506.244
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.14368
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.328396
+		-75.08533
+		10.5296
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 51 1070. 1542.949
+	image	20201004_0023
+	aperture	51
+	beam	51
+	center	1070. 1542.949
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.62952
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.871104
+		-75.83952
+		10.57927
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 52 1070. 1579.247
+	image	20201004_0023
+	aperture	52
+	beam	52
+	center	1070. 1579.247
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.13049
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.333258
+		-76.60806
+		10.63465
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 53 1070. 1616.636
+	image	20201004_0023
+	aperture	53
+	beam	53
+	center	1070. 1616.636
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.242178
+		-77.39149
+		10.67749
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 54 1070. 1655.007
+	image	20201004_0023
+	aperture	54
+	beam	54
+	center	1070. 1655.007
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.51538
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.711279
+		-78.17876
+		10.72304
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 55 1070. 1693.867
+	image	20201004_0023
+	aperture	55
+	beam	55
+	center	1070. 1693.867
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.646
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		8.227358
+		-79.00465
+		10.77517
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 56 1070. 1731.822
+	image	20201004_0023
+	aperture	56
+	beam	56
+	center	1070. 1731.822
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 10.81018
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.203487
+		-79.83878
+		10.8375
+
+# Tue 18:15:16 06-Oct-2020
+begin	aperture 20201004_0023 57 1070. 1770.996
+	image	20201004_0023
+	aperture	57
+	beam	57
+	center	1070. 1770.996
+	low	-1069. -4.279421
+	high	961. 4.097554
+	background
+		xmin -11.10535
+		xmax 11.56885
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		10.
+		2030.
+		9.527381
+		-80.69076
+		10.89989
+
