@@ -10,5 +10,5 @@ How to use?
 4) Run 3_wv_calibration.py to perform wavelength calibration.
 5) Run 4_plotting.py (it is optional) if you want to generate a pdf plot of the reduced spectra for each aperture.
 
-## Importants Remarks
-The scripts works only with TS23 spectra in its high resolution mode (R = 60 000).
+## Important Remarks
+The scripts works only with TS23 spectra.
