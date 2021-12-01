@@ -11,4 +11,4 @@ How to use?
 5) Run 4_plotting.py (it is optional) if you want to generate a pdf plot of the reduced spectra for each aperture.
 
 ## Important Remarks
-The scripts works only with TS23 spectra.
+The scripts works only with TS23 spectra, but this can be adapted for other echelle spectra.
